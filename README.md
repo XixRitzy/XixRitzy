@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on CyberSecurity Projects
 - 📫 How to reach me - xix.ritzy@gmail.com 
 - 😄 Pronouns: He
-- ⚡ Fun fact: I dont hae any Fun fact
+- ⚡ Fun fact: The "V" in my keyboard does not Works.
 
 <!---
 XixRitzy/XixRitzy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
